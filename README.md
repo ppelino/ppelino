@@ -1,6 +1,6 @@
 ### Olá pessoal 👋 👋
 
-![Snake animation](https://github.com/ppelino/ppelino/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ppelino/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 Atualmente trabalho como Professor Coordenador de Núcleo Pedagógico **Embaixador da Digital Innovation One In**
 
