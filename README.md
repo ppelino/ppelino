@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **ppelino@hotmail.com**
 
-- 📄 Aqui se encontra algumas habilidades de Edson [https://www.linkedin.com/in/est%C3%A1gioengenharia/](https://www.linkedin.com/in/est%C3%A1gioengenharia/)
+- 📄 Aqui se encontra algumas habilidades de Edson https://www.linkedin.com/in/estudantedeengenharia/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
