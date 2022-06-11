@@ -7,6 +7,7 @@
 - 🌱 Atualmente estou aprendendo **Phyton, Css, Html, Scharp, C e C++**
 
 - 👯 compartilho meus conhecimentos matemático no meu canal **https://www.youtube.com/channel/UCLizQpstB13MzVTq6Cc4AUg**
+- facebook https://web.facebook.com/profile.php?id=100004339180568
 
 - 📫 How to reach me **ppelino@hotmail.com**
 
