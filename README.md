@@ -10,7 +10,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100004339180568)
 [![Instagram](https://img.shields.io/badge/Instagram-%40edsongbraz-%23E4405F?style=flat&logo=instagram)](https://www.instagram.com/edsongbraz)
 [![Instagram](https://img.shields.io/badge/Instagram-%40engestedsonbraz-orange)](https://www.instagram.com/engestedsonbraz/)
-[![Logo do Portfólio](URL_DA_IMAGEM_DO_INSTAGRAM)](https://portfolioedson.netlify.app/)
+[![Logo do Portfólio](URL_DA_IMAGEM_DO_netlify)](https://portfolioedson.netlify.app/)
 
 
 
