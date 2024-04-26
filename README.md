@@ -10,6 +10,8 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100004339180568)
 [![Instagram](https://img.shields.io/badge/Instagram-%40edsongbraz-%23E4405F?style=flat&logo=instagram)](https://www.instagram.com/edsongbraz)
 [![Instagram](https://img.shields.io/badge/Instagram-%40engestedsonbraz-orange)](https://www.instagram.com/engestedsonbraz/)
+[🎥 Assista ao meu último vídeo no YouTube!](https://youtu.be/92nGm8uZqd0)
+
 
 [![MSN](https://img.shields.io/badge/MSN-hotmail.com-%230072C6?style=flat&logo=microsoft)](mailto:ppelino@hotmail.com)
 
