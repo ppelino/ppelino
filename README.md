@@ -21,5 +21,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="display: inline-block;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="display: inline-block;"/>
     <img src="https://github.com/ppelino/ppelino/blob/main/Microsoft-Power-BI-Logo_PNG2.png" alt="Power BI" width="40" height="40" />
+    <img src="https://github.com/ppelino/ppelino/blob/main/excel-5963669_1280.png" alt="Excel" width="40" height="40" />
+
 
   </div>
