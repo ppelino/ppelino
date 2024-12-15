@@ -23,4 +23,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="display: inline-block;"/>
+    <div style="display: flex; align-items: center; gap: 20px;">
+
+  <!-- BI Icon -->
+  <div style="width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; background-color: #F2C811; border-radius: 5px;">
+    <span style="font-weight: bold; color: #000; font-family: Arial, sans-serif;">BI</span>
+  </div>
+
+  <!-- Excel Icon -->
+  <div style="width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; background-color: #217346; border-radius: 5px;">
+    <span style="font-weight: bold; color: #FFF; font-family: Arial, sans-serif;">X</span>
+  </div>
+
+  <!-- SQL Icon -->
+  <div style="width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; background-color: #2D89EF; border-radius: 5px;">
+    <span style="font-weight: bold; color: #FFF; font-family: Arial, sans-serif;">SQL</span>
+  </div>
+
+</div>
+
 </div>
