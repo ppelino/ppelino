@@ -24,15 +24,23 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="display: inline-block;"/>
     <div style="display: flex; align-items: center; gap: 20px;">
-
+  
   <!-- BI Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Power_BI_logo.svg" alt="BI Logo" width="40" height="40" style="display: inline-block;">
+  <img src="https://logos-world.net/wp-content/uploads/2021/02/Power-BI-Logo.png" 
+       alt="BI Logo" width="40" height="40" 
+       style="display: inline-block; background-color: transparent;">
 
   <!-- Excel Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Excel_2013-2019_logo.svg" alt="Excel Logo" width="40" height="40" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" 
+       alt="Excel Logo" width="40" height="40" 
+       style="display: inline-block;">
 
   <!-- SQL Logo -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="40" height="40" style="display: inline-block;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" 
+       alt="SQL Logo" width="40" height="40" 
+       style="display: inline-block;">
+</div>
+
 
 </div>
 
