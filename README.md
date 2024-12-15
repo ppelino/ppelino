@@ -21,4 +21,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="display: inline-block;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="display: inline-block;"/>
+    ## Languages and Tools
+
+<img src="https://github.com/ppelino/ppelino/blob/main/Microsoft-Power-BI-Logo_PNG2.png" alt="Power BI" width="40" height="40" />
+
   </div>
