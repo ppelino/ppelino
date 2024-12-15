@@ -18,29 +18,29 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- Jupyter Notebook -->
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter Notebook" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter Notebook" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- Google Colab -->
     <img src="https://colab.research.google.com/img/colab_favicon_256px.png" alt="Google Colab" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- Python -->
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" alt="Python" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- C -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- C++ -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- C# -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- CSS -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     
     <!-- HTML -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
-    
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
+
     <!-- Power BI -->
     <img src="https://logos-world.net/wp-content/uploads/2021/02/Power-BI-Logo.png" alt="Power BI" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
 
@@ -51,10 +51,6 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
 </div>
 
-
-</div>
-
-</div>
   </div>
 
 </div>
