@@ -23,21 +23,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="40" height="40" style="display: inline-block;"/>
-    <div style="display: flex; align-items: center; gap: 20px;">
+     <img src="https://upload.wikimedia.org/wikipedia/commons/c/c2/Power_bi_logo_black.svg" alt="BI Logo" width="40" height="40" style="display: inline-block;">
 
-  <!-- BI Icon -->
-  <div style="width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; background-color: #F2C811; border-radius: 5px;">
-    <span style="font-weight: bold; color: #000; font-family: Arial, sans-serif;">BI</span>
-  </div>
+  <!-- Excel Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Microsoft_Office_Excel_%282018%E2%80%93present%29.svg" alt="Excel Logo" width="40" height="40" style="display: inline-block;">
 
-  <!-- Excel Icon -->
-  <div style="width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; background-color: #217346; border-radius: 5px;">
-    <span style="font-weight: bold; color: #FFF; font-family: Arial, sans-serif;">X</span>
-  </div>
+  <!-- SQL Logo -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL Logo" width="40" height="40" style="display: inline-block;">
 
-  <!-- SQL Icon -->
-  <div style="width: 40px; height: 40px; display: flex; justify-content: center; align-items: center; background-color: #2D89EF; border-radius: 5px;">
-    <span style="font-weight: bold; color: #FFF; font-family: Arial, sans-serif;">SQL</span>
+</div>
   </div>
 
 </div>
