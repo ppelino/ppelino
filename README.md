@@ -22,5 +22,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" style="display: inline-block;"/>
     <img src="https://github.com/ppelino/ppelino/blob/main/Microsoft-Power-BI-Logo_PNG2.png" alt="Power BI" width="40" height="40" />
     <img src="https://github.com/ppelino/ppelino/blob/main/excel-5963669_1280.png" alt="Excel" width="40" height="40" />
+    <img src="https://portfolio-do-edsonbraz.netlify.app/" target="_blank"> <img src="netlify_logo_icon_169924.png" alt="Netlify Logo" width="100" />
    
 </div>
