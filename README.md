@@ -3,7 +3,8 @@
 
 ### Olá pessoal 👋 👋
 
-- 🌱Estudante de Pós MBA em Big data e Inteligência Competitiva com formação em Pos graduado em IA e Machine Learning
+ChatGPT
+🌱 Pós-graduado em MBA em Big Data e Inteligência Competitiva, com especialização em Inteligência Artificial e Machine Learning e formação em Engenharia da Computação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edsonbrazDados/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCLizQpstB13MzVTq6Cc4AUg)
