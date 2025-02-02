@@ -3,7 +3,6 @@
 
 ### Olá pessoal 👋 👋
 
-ChatGPT
 🌱 Pós-graduado em MBA em Big Data e Inteligência Competitiva, com especialização em Inteligência Artificial e Machine Learning e formação em Engenharia da Computação.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edsonbrazDados/)
