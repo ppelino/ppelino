@@ -7,7 +7,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/edsonbrazDados/)
 [![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=flat&logo=youtube)](https://www.youtube.com/channel/UCLizQpstB13MzVTq6Cc4AUg)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue?style=flat&logo=facebook)](https://web.facebook.com/profile.php?id=100004339180568)
 [![Instagram](https://img.shields.io/badge/Instagram-%40edsongbraz-%23E4405F?style=flat&logo=instagram)](https://www.instagram.com/edsongbraz)
 [![Instagram](https://img.shields.io/badge/Instagram-%40engestedsonbraz-orange)](https://www.instagram.com/engestedsonbraz/)
 [![MSN](https://img.shields.io/badge/MSN-hotmail.com-%230072C6?style=flat&logo=microsoft)](mailto:ppelino@hotmail.com)
