@@ -43,7 +43,7 @@
   <!-- Marcas (Simple Icons) -->
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
   <!-- Power BI (Devicon é bem estável) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/powerbi-original.svg" height="48" alt="Power BI" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/Power BI.svg" height="48" alt="Power BI" />
 
 <!-- Excel (SimpleIcons) -->
 <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
