@@ -42,11 +42,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="48" alt="HTML5" />
   <!-- Marcas (Simple Icons) -->
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
-  <!-- Power BI (Devicon é bem estável) -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerbi/Power BI.svg" height="48" alt="Power BI" />
-
-<!-- Excel (SimpleIcons) -->
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
+  <p align="center">
+  <img src="assets/icons/powerbi.svg" height="48" alt="Power BI" />
+  <img src="assets/icons/excel.svg"  height="48" alt="Microsoft Excel" />
+</p>
 
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="48" alt="Netlify" />
 </p>
