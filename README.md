@@ -32,28 +32,22 @@
 ---
 
 ### 🛠️ Languages & Tools
-<!-- Linha única padronizada; SVGs estáveis; todos com a mesma altura -->
 <p align="center">
+
   <!-- Devicon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="48" alt="HTML5" />
-  <!-- Marcas (Simple Icons) -->
+
+  <!-- Marcas -->
   <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
-  <p align="center">
   <img src="assets/icons/powerbi.svg" height="48" alt="Power BI" />
-  <img src="assets/icons/excel.svg"  height="48" alt="Microsoft Excel" />
-</p>
-
+  <img src="assets/icons/excel.svg" height="48" alt="Microsoft Excel" />
   <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="48" alt="Netlify" />
+
 </p>
-
----
-
-<!-- (Opcional) Estatísticas; pode remover se não quiser -->
-<div align="center">
 
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=ppelino&show_icons=true&theme=transparent&title_color=00d5ff&icon_color=00d5ff"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppelino&layout=compact&theme=transparent&title_color=00d5ff"/>
