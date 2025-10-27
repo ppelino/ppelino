@@ -2,12 +2,11 @@
 <p align="center">
   <img src="https://github.com/ppelino/ppelino/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
 <h1 align="center">Olá pessoal 👋</h1>
 
 🌱 Pós-graduado em **MBA em Big Data e Inteligência Competitiva**, com especialização em **IA & Machine Learning** e formação em **Engenharia da Computação**.
 
-<!-- Redes sociais / links principais -->
+<!-- Redes sociais -->
 <p align="center">
   <a href="https://www.linkedin.com/in/edsonbrazdados/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -49,8 +48,11 @@
 
 </p>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=ppelino&show_icons=true&theme=transparent&title_color=00d5ff&icon_color=00d5ff"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppelino&layout=compact&theme=transparent&title_color=00d5ff"/>
+---
 
+<!-- Estatísticas -->
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ppelino&show_icons=true&theme=transparent&title_color=00d5ff&icon_color=00d5ff"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppelino&layout=compact&theme=transparent&title_color=00d5ff"/>
 </div>
 
