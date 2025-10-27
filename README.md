@@ -11,6 +11,19 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%40engestedsonbraz-orange)](https://www.instagram.com/engestedsonbraz/)
 [![MSN](https://img.shields.io/badge/MSN-hotmail.com-%230072C6?style=flat&logo=microsoft)](mailto:ppelino@hotmail.com)
 
+<p align="center">
+  <!-- Devicon (tecnologias) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
+
+  <!-- Simple Icons (marcas) -->
+  <img src="https://cdn.simpleicons.org/googlecolab/F9AB00" height="48" alt="Google Colab" />
+  <img src="https://cdn.simpleicons.org/powerbi/F2C811" height="48" alt="Power BI" />
+  <img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="48" alt="Microsoft Excel" />
+  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="48" alt="Netlify" />
+</p>
+
+
 <h3 align="left">Languages and Tools:</h3>
 <div>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" style="display: inline-block; margin-right: 20px;"/>
