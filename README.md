@@ -1,6 +1,7 @@
 <!-- 🐍 Snake Animation -->
 <p align="center">
- <img src="https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+<img src="https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+
 <h1 align="center">Olá pessoal 👋</h1>
 
 🌱 Pós-graduado em **MBA em Big Data e Inteligência Competitiva**, com especialização em **IA & Machine Learning** e formação em **Engenharia da Computação**.
