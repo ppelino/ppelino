@@ -28,13 +28,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="48" alt="HTML5" />
-  + <img src="powerbi.svg" height="48" alt="Power BI" />
-+ <img src="excel.svg"  height="48" alt="Microsoft Excel" />
+
   <!-- Marcas -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" height="48" alt="Google Colab"/>
-  
+  <img src="powerbi.svg" height="48" alt="Power BI" />
+  <img src="excel.svg"  height="48" alt="Microsoft Excel" />
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="48" alt="Netlify"/>
 </p>
+
 
 
 ### 📊 Estatísticas do GitHub
