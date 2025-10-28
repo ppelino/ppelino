@@ -31,8 +31,9 @@
 
   <!-- Marcas -->
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" height="48" alt="Google Colab"/>
-  <img src="powerbi.svg" height="48" alt="Power BI" />
-  <img src="excel.svg"  height="48" alt="Microsoft Excel" />
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/powerbi.svg" height="48" alt="Power BI" />
+<img src="https://raw.githubusercontent.com/ppelino/ppelino/main/excel.svg"  height="48" alt="Microsoft Excel" />
+
   <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="48" alt="Netlify"/>
 </p>
 
