@@ -27,20 +27,19 @@
 </table>
 
 ---
-
 ## 🚀 Tecnologias & Ferramentas
 
-<div align="center">
-
-<img src="./assets/python.png" alt="Python" width="48"/>
-<img src="./assets/jupyter.png" alt="Jupyter" width="48"/>
-<img src="./assets/colab.png" alt="Google Colab" width="48"/>
-<img src="./assets/postgresql.png" alt="PostgreSQL" width="48"/>
-<img src="./assets/mysql.png" alt="MySQL" width="48"/>
-<img src="./assets/html5.png" alt="HTML5" width="48"/>
-<img src="./assets/powerbi.png" alt="Power BI" width="48"/>
-<img src="./assets/excel.png" alt="Excel" width="48"/>
-<img src="./assets/netlify.png" alt="Netlify" width="48"/>
+<p align="center">
+  <img src="./assets/python.png" width="45" alt="Python"/>
+  <img src="./assets/jupyter.png" width="45" alt="Jupyter"/>
+  <img src="./assets/colab.png" width="45" alt="Google Colab"/>
+  <img src="./assets/postgresql.png" width="45" alt="PostgreSQL"/>
+  <img src="./assets/mysql.png" width="45" alt="MySQL"/>
+  <img src="./assets/html5.png" width="45" alt="HTML5"/>
+  <img src="./assets/powerbi.png" width="45" alt="Power BI"/>
+  <img src="./assets/excel.png" width="45" alt="Excel"/>
+  <img src="./assets/netlify.png" width="45" alt="Netlify"/>
+</p>
 
 </div>
 
