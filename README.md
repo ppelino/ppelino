@@ -45,8 +45,8 @@
 <!-- MySQL -->
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" alt="MySQL"/>
 
-<!-- HTML5 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
+<!-- HTML -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" width="60" alt="HTML"/>
 
 <!-- Power BI -->
 <img src="https://learn.microsoft.com/en-us/power-bi/media/brand/windows_powerbi_icon.png" width="60" alt="Power BI"/>
