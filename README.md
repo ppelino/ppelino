@@ -33,7 +33,7 @@
   <img src="https://cdn.simpleicons.org/googlecolab" width="56" alt="Google Colab"/>
   <img src="https://cdn.simpleicons.org/postgresql" width="56" alt="PostgreSQL"/>
   <img src="https://cdn.simpleicons.org/mysql" width="56" alt="MySQL"/>
-  <img src="https://cdn.simpleicons.org/html5" width="56" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/html" width="56" alt="HTML"/>
   <img src="https://cdn.simpleicons.org/powerbi" width="56" alt="Power BI"/>
   <img src="https://cdn.simpleicons.org/microsoftexcel" width="56" alt="Excel"/>
   <img src="https://cdn.simpleicons.org/netlify" width="56" alt="Netlify"/>
