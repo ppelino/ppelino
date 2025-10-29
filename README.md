@@ -34,8 +34,8 @@
   <img src="https://cdn.simpleicons.org/postgresql" width="56" alt="PostgreSQL"/>
   <img src="https://cdn.simpleicons.org/mysql" width="56" alt="MySQL"/>
   <img src="https://cdn.simpleicons.org/html5" width="56" alt="HTML5"/>
-  <img src="https://cdn.simpleicons.org/powerbi" width="56" alt="Power BI"/>
-  <img src="https://cdn.simpleicons.org/microsoftexcel" width="56" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/powerbi?color=F2C811" width="56" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel?color=217346" width="56" alt="Excel"/>
   <img src="https://cdn.simpleicons.org/netlify" width="56" alt="Netlify"/>
 </p>
 
