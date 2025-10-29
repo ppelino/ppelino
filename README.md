@@ -30,7 +30,7 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="./assets/python.png" width="45" alt="Python"/>
+  ![Python](./assets/python.png)
   <img src="./assets/jupyter.png" width="45" alt="Jupyter"/>
   <img src="./assets/colab.png" width="45" alt="Google Colab"/>
   <img src="./assets/postgresql.png" width="45" alt="PostgreSQL"/>
