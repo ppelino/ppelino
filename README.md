@@ -30,16 +30,17 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  ![Python](./assets/python.png)
-  <img src="./assets/jupyter.png" width="45" alt="Jupyter"/>
-  <img src="./assets/colab.png" width="45" alt="Google Colab"/>
-  <img src="./assets/postgresql.png" width="45" alt="PostgreSQL"/>
-  <img src="./assets/mysql.png" width="45" alt="MySQL"/>
-  <img src="./assets/html5.png" width="45" alt="HTML5"/>
-  <img src="./assets/powerbi.png" width="45" alt="Power BI"/>
-  <img src="./assets/excel.png" width="45" alt="Excel"/>
-  <img src="./assets/netlify.png" width="45" alt="Netlify"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/python.png" width="45" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/jupyter.png" width="45" alt="Jupyter"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/colab.png" width="45" alt="Google Colab"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/postgresql.png" width="45" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/mysql.png" width="45" alt="MySQL"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/html5.png" width="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/powerbi.png" width="45" alt="Power BI"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/excel.png" width="45" alt="Excel"/>
+  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/netlify.png" width="45" alt="Netlify"/>
 </p>
+
 
 </div>
 
