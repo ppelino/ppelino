@@ -30,16 +30,36 @@
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/python.png" width="45" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/jupyter.png" width="45" alt="Jupyter"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/colab.png" width="45" alt="Google Colab"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/postgresql.png" width="45" alt="PostgreSQL"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/mysql.png" width="45" alt="MySQL"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/html5.png" width="45" alt="HTML5"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/powerbi.png" width="45" alt="Power BI"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/excel.png" width="45" alt="Excel"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/assets/netlify.png" width="45" alt="Netlify"/>
+
+<!-- Python -->
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="60" alt="Python"/>
+
+<!-- Jupyter -->
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" alt="Jupyter"/>
+
+<!-- Google Colab -->
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" alt="Google Colab"/>
+
+<!-- PostgreSQL -->
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60" alt="PostgreSQL"/>
+
+<!-- MySQL -->
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" alt="MySQL"/>
+
+<!-- HTML5 -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
+
+<!-- Power BI -->
+<img src="https://learn.microsoft.com/en-us/power-bi/media/brand/windows_powerbi_icon.png" width="60" alt="Power BI"/>
+
+<!-- Excel -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" alt="Excel"/>
+
+<!-- Netlify -->
+<img src="https://www.netlify.com/img/global/meta-image.png" width="60" alt="Netlify"/>
+
 </p>
+
 
 
 </div>
