@@ -4,7 +4,7 @@
 
 🎯 Engenheiro de Computação e Engenheiro de Segurança do Trabalho  
 📊 Experiência em Análise de Dados e Automação de Processos  
-🤖 Inteligência Artificial aplicada à SST e Business Intelligence  
+🤖 IA & Business Intelligence aplicados à SST  
 📈 Transformo dados em decisões e resultados reais
 
 </div>
@@ -17,49 +17,47 @@
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/edsonbraz/" target="_blank">LinkedIn</a></td>
+<td><a href="https://www.linkedin.com/in/edsonbrazdados/" target="_blank">LinkedIn</a></td>
 <td><a href="https://youtube.com/@edsongomes2649" target="_blank">YouTube</a></td>
-<td><a href="https://www.instagram.com/" target="_blank">Instagram Pessoal</a></td>
-<td><a href="https://www.instagram.com/" target="_blank">Instagram Profissional</a></td>
-<td><a href="mailto:edson@email.com">Email</a></td>
+<td><a href="mailto:edson@email.com" target="_blank">Email</a></td>
 <td><a href="https://edsonbraz-portfolio.netlify.app/" target="_blank">Portfólio</a></td>
 </tr>
 </table>
+
+---
 
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
 
 <!-- Python -->
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="60" alt="Python"/>
+<img src="https://www.python.org/static/community_logos/python-logo.png" width="56" alt="Python"/>
 
 <!-- Jupyter -->
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" alt="Jupyter"/>
+<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="56" alt="Jupyter"/>
 
 <!-- Google Colab -->
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" alt="Google Colab"/>
+<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="56" alt="Google Colab"/>
 
 <!-- PostgreSQL -->
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60" alt="PostgreSQL"/>
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="56" alt="PostgreSQL"/>
 
 <!-- MySQL -->
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" alt="MySQL"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="56" alt="MySQL"/>
 
 <!-- HTML5 -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" alt="HTML5"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="56" alt="HTML5"/>
 
 <!-- Power BI -->
-<img src="https://learn.microsoft.com/en-us/power-bi/media/brand/windows_powerbi_icon.png" width="60" alt="Power BI"/>
+<img src="https://learn.microsoft.com/en-us/power-bi/media/brand/windows_powerbi_icon.png" width="56" alt="Power BI"/>
 
 <!-- Excel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" alt="Excel"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="56" alt="Excel"/>
 
 <!-- Netlify -->
-<img src="https://www.netlify.com/img/global/meta-image.png" width="60" alt="Netlify"/>
+<img src="https://www.netlify.com/v3/img/components/logomark.png" width="56" alt="Netlify"/>
 
 </p>
-
-</div>
 
 ---
 
@@ -76,12 +74,30 @@
 
 ## 🐍 Snake Animation
 
-> Será atualizada automaticamente todos os dias ✅
+> Atualiza automaticamente (workflow diário).
 
 <div align="center">
-![snake animation](./.github/assets/snake.svg)
-![snake dark](https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+<!-- Se você já gerou a snake para .github/assets/snake.svg, use o relativo abaixo -->
+<img src="./.github/assets/snake.svg" alt="Snake animation" />
+
+<!-- Fallback via raw, caso prefira -->
+<!--
+<img src="https://raw.githubusercontent.com/ppelino/ppelino/main/.github/assets/snake.svg" alt="Snake animation (raw fallback)" />
+-->
 
 </div>
 
 ---
+
+## 🔎 Projetos em Destaque (SST & Dados)
+
+- **Dashboards de SST (Power BI)** – indicadores de riscos, conformidade e performance operacional.  
+- **Automação de relatórios SST (Python)** – geração de laudos e documentos (PGR/LTCAT/PCMSO/ASO).  
+- **Apps e Planilhas inteligentes (Excel/Apps Script/AppSheet)** – controle, coleta e análise de dados em campo.  
+
+> Quer ver um projeto específico? Me chama no LinkedIn: **/edsonbrazdados**.
+
+---
+
+✍️ Aberto a parcerias, freelas e oportunidades nas áreas de **Dados, IA e SST**.  
