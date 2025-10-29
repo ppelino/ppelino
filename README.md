@@ -26,7 +26,6 @@
 </tr>
 </table>
 
----
 ## 🚀 Tecnologias & Ferramentas
 
 <p align="center">
@@ -59,8 +58,6 @@
 <img src="https://www.netlify.com/img/global/meta-image.png" width="60" alt="Netlify"/>
 
 </p>
-
-
 
 </div>
 
