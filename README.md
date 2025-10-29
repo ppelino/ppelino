@@ -73,16 +73,11 @@
 </div>
 
 ---
-
 ## 🐍 Snake Animation
+<p align="center">
+  <img src="./.github/assets/snake.svg" alt="Snake animation" />
+</p>
 
-> Será atualizada automaticamente todos os dias ✅
-
-<div align="center">
-![snake animation](./.github/assets/snake.svg)
-![snake dark](https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-</div>
 
 ---
 
