@@ -27,41 +27,17 @@
 </table>
 
 ## 🚀 Tecnologias & Ferramentas
-
 <p align="center">
-
-<!-- Python -->
-<img src="https://www.python.org/static/community_logos/python-logo.png" width="60" alt="Python"/>
-
-<!-- Jupyter -->
-<img src="https://jupyter.org/assets/homepage/main-logo.svg" width="60" alt="Jupyter"/>
-
-<!-- Google Colab -->
-<img src="https://colab.research.google.com/img/colab_favicon_256px.png" width="60" alt="Google Colab"/>
-
-<!-- PostgreSQL -->
-<img src="https://www.postgresql.org/media/img/about/press/elephant.png" width="60" alt="PostgreSQL"/>
-
-<!-- MySQL -->
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="60" alt="MySQL"/>
-
-<!-- HTML -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html/html-original.svg" width="60" alt="HTML"/>
-
-<!-- Power BI -->
-<img src="https://learn.microsoft.com/en-us/power-bi/media/brand/windows_powerbi_icon.png" width="60" alt="Power BI"/>
-
-<!-- Excel -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="60" alt="Excel"/>
-
-<!-- Netlify -->
-<img src="https://www.netlify.com/img/global/meta-image.png" width="60" alt="Netlify"/>
-
+  <img src="https://cdn.simpleicons.org/python" width="56" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/jupyter" width="56" alt="Jupyter"/>
+  <img src="https://cdn.simpleicons.org/googlecolab" width="56" alt="Google Colab"/>
+  <img src="https://cdn.simpleicons.org/postgresql" width="56" alt="PostgreSQL"/>
+  <img src="https://cdn.simpleicons.org/mysql" width="56" alt="MySQL"/>
+  <img src="https://cdn.simpleicons.org/html5" width="56" alt="HTML5"/>
+  <img src="https://cdn.simpleicons.org/powerbi" width="56" alt="Power BI"/>
+  <img src="https://cdn.simpleicons.org/microsoftexcel" width="56" alt="Excel"/>
+  <img src="https://cdn.simpleicons.org/netlify" width="56" alt="Netlify"/>
 </p>
-
-</div>
-
----
 
 ## 📊 Estatísticas do GitHub
 
