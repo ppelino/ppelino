@@ -17,7 +17,7 @@
 
 <table>
 <tr>
-<td><a href="https://www.linkedin.com/in/edsonbraz/" target="_blank">LinkedIn</a></td>
+<td><a href="https://www.linkedin.com/in/edsonbrazdados/" target="_blank">LinkedIn</a></td>
 <td><a href="https://youtube.com/@edsongomes2649" target="_blank">YouTube</a></td>
 <td><a href="https://www.instagram.com/" target="_blank">Instagram Pessoal</a></td>
 <td><a href="https://www.instagram.com/" target="_blank">Instagram Profissional</a></td>
