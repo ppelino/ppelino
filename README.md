@@ -1,48 +1,74 @@
-<!-- 🐍 Snake Animation -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-
-<h1 align="center">Olá pessoal 👋</h1>
-
-🌱 Pós-graduado em **MBA em Big Data e Inteligência Competitiva**, com especialização em **IA & Machine Learning** e formação em **Engenharia da Computação**.
-
----
-
-### 🌐 Onde me encontrar
-<p align="center">
-  <a href="https://www.linkedin.com/in/edsonbrazdados/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@edsongomes2649" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/edsongbraz" target="_blank"><img src="https://img.shields.io/badge/Instagram%20Pessoal-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.instagram.com/engestedsonbraz" target="_blank"><img src="https://img.shields.io/badge/Instagram%20Profissional-FC4C02?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="mailto:engestedsonbraz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://portfolio-do-edsonbraz.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/></a>
-</p>
-
----
-
-### 🛠️ Languages & Tools
-<p align="center">
-
-  <!-- Devicon -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="48" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="48" alt="HTML5" />
-
-  <!-- Marcas -->
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlecolab.svg" height="48" alt="Google Colab"/>
-  <img src="https://raw.githubusercontent.com/ppelino/ppelino/main/powerbi.svg" height="48" alt="Power BI" />
-<img src="https://raw.githubusercontent.com/ppelino/ppelino/main/excel.svg"  height="48" alt="Microsoft Excel" />
-
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/netlify.svg" height="48" alt="Netlify"/>
-</p>
-
-
-
-### 📊 Estatísticas do GitHub
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ppelino&show_icons=true&theme=transparent&title_color=00d5ff&icon_color=00d5ff"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ppelino&layout=compact&theme=transparent&title_color=00d5ff"/>
+
+# Olá pessoal 👋
+
+🎯 Engenheiro de Computação e Engenheiro de Segurança do Trabalho  
+📊 Experiência em Análise de Dados e Automação de Processos  
+🤖 Inteligência Artificial aplicada à SST e Business Intelligence  
+📈 Transformo dados em decisões e resultados reais
+
 </div>
+
+> Engenheiro de Computação e Engenheiro de Segurança do Trabalho, com sólida experiência em análise de dados, automação de processos e gestão de riscos ocupacionais. Atuo na transformação digital por meio da integração entre Inteligência Artificial, Business Intelligence e sistemas para Saúde e Segurança do Trabalho (SST), entregando soluções que elevam a performance, reduzem custos e ampliam a tomada de decisão baseada em dados.
+
+---
+
+## 🌎 Onde me encontrar
+
+<table>
+<tr>
+<td><a href="https://www.linkedin.com/in/edsonbraz/" target="_blank">LinkedIn</a></td>
+<td><a href="https://youtube.com/@edsongomes2649" target="_blank">YouTube</a></td>
+<td><a href="https://www.instagram.com/" target="_blank">Instagram Pessoal</a></td>
+<td><a href="https://www.instagram.com/" target="_blank">Instagram Profissional</a></td>
+<td><a href="mailto:edson@email.com">Email</a></td>
+<td><a href="https://edsonbraz-portfolio.netlify.app/" target="_blank">Portfólio</a></td>
+</tr>
+</table>
+
+---
+
+## 🚀 Tecnologias & Ferramentas
+
+<div align="center">
+
+<img src="./assets/python.png" alt="Python" width="48"/>
+<img src="./assets/jupyter.png" alt="Jupyter" width="48"/>
+<img src="./assets/colab.png" alt="Google Colab" width="48"/>
+<img src="./assets/postgresql.png" alt="PostgreSQL" width="48"/>
+<img src="./assets/mysql.png" alt="MySQL" width="48"/>
+<img src="./assets/html5.png" alt="HTML5" width="48"/>
+<img src="./assets/powerbi.png" alt="Power BI" width="48"/>
+<img src="./assets/excel.png" alt="Excel" width="48"/>
+<img src="./assets/netlify.png" alt="Netlify" width="48"/>
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppelino&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppelino&layout=compact&theme=dracula)
+
+</div>
+
+---
+
+## 🐍 Snake Animation
+
+> Será atualizada automaticamente todos os dias ✅
+
+<div align="center">
+
+![snake light](https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![snake dark](https://raw.githubusercontent.com/ppelino/ppelino/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+</div>
+
+---
+
+✍️ Sempre aberto para conexões, parcerias e oportunidades na área de Dados e Engenharia de Segurança do Trabalho!
 
